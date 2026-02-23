@@ -1,8 +1,5 @@
 # TurboForge 
 ### Generative AI Digital Twin for Wind Farm Failure Prediction
-
-A Transformer-based deep learning system for real-time wind turbine failure prediction using SCADA sensor data across a 50-turbine fleet.
-
 ---
 
 ## Results
