@@ -1,0 +1,18 @@
+{
+  "baseline_metrics": {
+    "f1": 0.9222,
+    "auc": 0.9943,
+    "accuracy": 0.9908,
+    "recall": 0.8957
+  },
+  "full_model_metrics": {
+    "f1": 0.9726,
+    "auc": 0.9975,
+    "accuracy": 0.9969,
+    "recall": 0.9577
+  },
+  "baseline_coord_efficiency": 2.7939,
+  "full_model_coord_efficiency": 3.0302,
+  "coordination_improvement_pct": 8.5,
+  "key_finding": "Transformer attention improves coordination efficiency by +8.5%"
+}

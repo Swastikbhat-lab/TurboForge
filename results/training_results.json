@@ -1,0 +1,23 @@
+{
+  "history": [
+    {"epoch": 1,  "loss": 0.2412, "f1": 0.8384, "auc": 0.9848, "recall": 0.7913, "threshold": 0.90},
+    {"epoch": 5,  "loss": 0.0796, "f1": 0.8951, "auc": 0.9937, "recall": 0.8691, "threshold": 0.90},
+    {"epoch": 10, "loss": 0.0567, "f1": 0.9245, "auc": 0.9956, "recall": 0.9068, "threshold": 0.93},
+    {"epoch": 15, "loss": 0.0429, "f1": 0.9417, "auc": 0.9963, "recall": 0.9183, "threshold": 0.93},
+    {"epoch": 20, "loss": 0.0358, "f1": 0.9595, "auc": 0.9969, "recall": 0.9496, "threshold": 0.93},
+    {"epoch": 25, "loss": 0.0290, "f1": 0.9656, "auc": 0.9971, "recall": 0.9568, "threshold": 0.93},
+    {"epoch": 30, "loss": 0.0249, "f1": 0.9731, "auc": 0.9973, "recall": 0.9558, "threshold": 0.90},
+    {"epoch": 35, "loss": 0.0216, "f1": 0.9757, "auc": 0.9974, "recall": 0.9593, "threshold": 0.93},
+    {"epoch": 40, "loss": 0.0187, "f1": 0.9746, "auc": 0.9973, "recall": 0.9598, "threshold": 0.93},
+    {"epoch": 45, "loss": 0.0168, "f1": 0.9785, "auc": 0.9974, "recall": 0.9609, "threshold": 0.93},
+    {"epoch": 50, "loss": 0.0165, "f1": 0.9787, "auc": 0.9974, "recall": 0.9610, "threshold": 0.90}
+  ],
+  "test_metrics": {
+    "accuracy": 0.9978,
+    "f1": 0.9809,
+    "precision": 0.9950,
+    "recall": 0.9672,
+    "auc": 0.9978,
+    "threshold": 0.9250
+  }
+}
