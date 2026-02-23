@@ -1,4 +1,4 @@
-# TurboForge ⚡🌬️
+# TurboForge 
 ### Generative AI Digital Twin for Wind Farm Failure Prediction
 
 A Transformer-based deep learning system for real-time wind turbine failure prediction using SCADA sensor data across a 50-turbine fleet.
@@ -63,7 +63,7 @@ Fleet Coordinator — Cross-Turbine Attention
 
 **Source**: [Kaggle Wind Turbine SCADA Dataset](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset) (T1.csv)
 
-> ⚠️ The dataset is not included in this repo (400MB). Download `T1.csv` from Kaggle and run the data prep script below.
+>  The dataset is not included in this repo (400MB). Download `T1.csv` from Kaggle and run the data prep script below.
 
 | Property | Value |
 |----------|-------|
@@ -132,4 +132,3 @@ Training time: ~25 minutes for 50 epochs on 841,600 sequences
 **Swastik Bhat**
 M.S. Computer Science — George Washington University
 Specialization: Machine Intelligence & Cognition
-GitHub: [@Swastikbhat-lab](https://github.com/Swastikbhat-lab)
